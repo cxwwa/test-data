@@ -1,5 +1,5 @@
 {
- "http://localhost:3000/mumbai_eventlist.json": {
+ "https://raw.githubusercontent.com/cxwwa/test-data/main/mumbai_eventlist.json": {
     "name": "Mumbai",
     "homepage": "xxxx"
   }
