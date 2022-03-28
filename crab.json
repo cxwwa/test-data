@@ -1,5 +1,5 @@
 {
- "http://localhost:3000/crab_eventlist.json": {
+ "https://raw.githubusercontent.com/cxwwa/test-data/main/crab_eventlist.json": {
     "name": "Crab",
     "homepage": "xxxx"
   }
