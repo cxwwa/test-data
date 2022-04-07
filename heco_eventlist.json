@@ -1,0 +1,16 @@
+{
+  "name": "Heco test",
+  "timestamp": "2022-03-08T00:00:00.000Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "logoURI": "https://github.githubassets.com/favicons/favicon.png",
+  "events": [
+    {
+      "chainId": 256,
+      "address": "0x06C63E8bE24bDeF9Be224593138a00ad12d56D60",
+      "name": "event1",
+      "detail":"event detail",
+      "logoURI": "https://github.githubassets.com/favicons/favicon.png",
+      "proofURI": "https://raw.githubusercontent.com/evolutionlandorg/claims/cfc1b9349deced23eeac8416cc1c8eb64959cb73/data/hecotest/proof/evo_1.json"
+    }
+  ]
+}
